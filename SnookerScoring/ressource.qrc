@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/main/pics">
+        <file>logosnooker.png</file>
+        <file>player1.png</file>
+        <file>player2.png</file>
+        <file>timer.png</file>
+        <file>reset.png</file>
+        <file>billeBleu.png</file>
+        <file>billeJaune.png</file>
+        <file>billeMarron.png</file>
+        <file>billeNoir.png</file>
+        <file>billeRose.png</file>
+        <file>billeRouge.png</file>
+        <file>billeVert.png</file>
+        <file>fleche-droite.png</file>
+        <file>fleche-gauche.png</file>
+        <file>player1Baguette.png</file>
+        <file>player2Baguette.png</file>
+        <file>plus.png</file>
+    </qresource>
+</RCC>
